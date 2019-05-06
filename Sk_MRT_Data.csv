@@ -1,0 +1,19 @@
+P,Age,Gender,Stance,A_3minScore,A_3minAttmpt,A_Score,A_Attmpt,A_time,B_3minScore,B_3minAttmpt,B_Score,B_Attmpt,B_time,FScore_tot,FAttmpt_tot,Tscore_tot,Tattmpt_tot,Time_tot,Fgrade,Tgrade,Sk_start,Sk_totexp,Pref_street,Pref_bowl,Pref_trans,Pref_hill,Pref_flatg,Comfort,Ski_exp,Start_ski,Ski_totexp,Vg_exp,Vg_start,Vg_totexp,Mus_exp,Mus_start,Mus_totexp,other_totexp,Occupation,major,Edu,test_diff,Method,Trick_totimg,Trick_NAs,Trick_rscore
+1,20,m,g,NA,NA,10,12,4,NA,NA,11,12,4,21,24,NA,NA,8,0.875,NA,6,14,y,n,y,n,n,flip tricks,y,16,4,y,8,12,y,18,2,4,Student,Neurosci,Some college,somewhat easy,y,47,0,0.391666667
+2,20,m,r,NA,NA,7,9,4,NA,NA,7,12,3.75,14,21,NA,NA,7.75,0.666666667,NA,12,4.5,y,y,y,y,y,flip tricks,y,2,18,y,6,3,y,12,3,0,Bike delivery,NA,Some college,somewhat easy,y,70,3,0.648148148
+3,22,f,g,NA,NA,6,12,4,NA,NA,4,12,4,10,24,NA,NA,8,0.416666667,NA,20,0.166666667,n,y,y,n,n,transition,y,18,4,n,NA,0,y,8,14,12,Student,Parks & Rec,Some college,somewhat hard,n,0,0,0
+4,27,m,r,5,7,6,12,4,6,7,7,12,4,13,24,11,14,8,0.541666667,0.785714286,12,3,y,n,n,y,y,other,y,3,24,y,15,2,y,10,5,10,NA,NA,Bachelors,somewhat hard,y,62,7,0.673913043
+5,21,m,g,5,8,5,12,4,2,8,3,12,4,8,24,7,16,8,0.333333333,0.4375,10,11,y,n,n,n,y,flip tricks,n,NA,0,y,9,NA,n,NA,0,0,Unemployed,NA,High School,somewhat hard,y,92,0,0.766666667
+6,21,m,r,7,11,8,12,3.5,4,9,6,12,4,14,24,11,20,7.5,0.583333333,0.55,15,5.5,y,n,n,n,y,flip tricks,y,19,2,y,3,18,y,5,NA,6,Lift operator,NA,High School,somewhat easy,y,119,0,0.991666667
+7,23,f,g,2,3,2,6,4,4,10,5,12,4,7,18,6,13,8,0.388888889,0.461538462,20,3,y,n,n,n,n,flip tricks,y,3,20,y,NA,5,n,NA,0,24,Student,CS,Some college,somewhat easy,y,112,2,1
+8,21,f,g,4,5,7,8,4,5,7,5,11,4,12,19,9,12,8,0.631578947,0.75,19,2.5,n,y,y,n,y,transition,y,6,9,n,NA,0,y,4,16,0,Student,Communications,Some college,somewhat easy,y,41,1,0.353448276
+9,20,m,r,9,9,11,12,3.75,9,10,11,12,3.66,22,24,18,19,7.41,0.916666667,0.947368421,10,2,n,y,y,n,n,transition,y,4,16,y,8,12,y,10,2,9,Equipment operator,NA,High School,somewhat easy,y,101,0,0.841666667
+10,19,m,g,8,8,9,12,4,NA,NA,8,9,4,17,21,NA,NA,8,0.80952381,NA,7,11,y,n,y,y,n,flip tricks,y,8,6.5,y,14,1,y,16,1,14,NA,NA,High School,somewhat hard,y,116,1,1
+11,18,m,g,4,NA,4,12,2.75,3,10,4,12,3.5,8,24,7,23,6.25,0.333333333,0.304347826,2,16,y,n,y,y,y,flip tricks,y,6,9,y,8,6,n,NA,0,6,NA,NA,High School,easy,y,88,0,0.733333333
+12,18,f,g,8,10,10,12,3.5,6,10,8,12,3.4,18,24,14,20,6.9,0.75,0.7,17,1.25,n,y,y,n,n,transition,y,14,1,n,NA,0,n,NA,0,11,Waitress,NA,High School,somewhat easy,y,71,0,0.591666667
+13,23,m,g,1,8,1,12,4,7,9,9,12,4,10,24,8,17,8,0.416666667,0.470588235,12,11.5,n,y,y,y,n,rails,y,14,8.5,y,9,5,y,15,8,1,Mechanic,NA,High School,somewhat hard,y,102,3,0.944444444
+14,26,m,r,5,5,10,11,4,4,6,6,10,4,16,21,9,11,8,0.761904762,0.818181818,12,0.970319635,n,n,y,n,n,transition,y,15,1,y,12,1.712328767,n,NA,0,1.952054795,Sales,NA,High School,hard,y,63,7,0.684782609
+15,23,m,r,6,8,7,12,4,5,9,7,12,3.66,14,24,11,17,7.66,0.583333333,0.647058824,4.5,15,,y,n,n,y,flip tricks,n,NA,0,n,NA,0,n,NA,0,12,Electrician,NA,High School,somewhat easy,y,83,0,0.691666667
+16,25,m,g,4,4,4,5,4,4,6,7,10,4,11,15,8,10,8,0.733333333,0.8,9,13,y,n,n,n,y,flip tricks,y,16,9,y,5,NA,y,12,3,13.5,Nurse,NA,Bachelors,somewhat hard,n,118,0,0.983333333
+17,27,m,g,12,12,12,12,2.56,6,11,7,12,3.08,19,24,18,23,5.64,0.791666667,0.782608696,12,10,y,y,y,n,n,transition,y,19,0.1,y,8,19,y,12,15,32.5,Student,Art,Associates,somewhat easy,y,61,12,0.847222222
+18,23,m,r,6,6,8,9,4,11,11,12,12,4,20,21,17,17,8,0.952380952,1,12,11,n,y,n,n,n,transition,y,13,4,y,5,18,y,12,8,2,Student,Social work,Some college,Medium,y,69,8,0.784090909
